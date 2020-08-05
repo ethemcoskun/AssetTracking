@@ -1,5 +1,9 @@
+
+//Change database design. Apprights table should be removed.
+//User to Role table - Many to Many Relation
+
 package com.app.AssetTrackingApp.repository;
- 
+
 import java.util.ArrayList;
 import java.util.List;
 
